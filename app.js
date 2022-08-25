@@ -70,7 +70,7 @@ function checkAge(age = -1, name = "Guest") {
 
 checkAge(17); // yes
 checkAge(); // nothing
-checkAge(15, "Lalo Salamanco"); // no
+checkAge(15, "Walter White, Jr."); // no
 
 // Which quadrant?
 
