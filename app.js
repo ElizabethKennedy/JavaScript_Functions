@@ -71,7 +71,7 @@ function checkAge(age = -1, name = "Guest") {
 checkAge(17); // yes
 checkAge(); // nothing
 checkAge(15, "Walter White, Jr."); // no
-
+//end of driving age exercise
 // Which quadrant?
 
 const determinePosition = (x, y) => {
